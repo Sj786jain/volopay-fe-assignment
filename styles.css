@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#tabs {
+  margin-bottom: 10px;
+}
+
+#tabs button {
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+
+.card {
+  width: 315px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card .type {
+  float: right;
+  font-weight: bold;
+}
+
+.card .expiry {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.card .limit {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+#search {
+  margin-bottom: 10px;
+}
